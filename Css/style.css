@@ -57,20 +57,20 @@ nav  > a:hover{
 }
 
 header .textos-header{
-    /*display: flex;
+    display: flex;
     height: 430px;
     width: 100%;
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    text-align: center;*/
-    display: grid;
+    text-align: center;
+    /*display: grid;
     grid-template-rows: 1fr 1fr;
     gap: 10px;
     text-align: center;
     align-items: center;
     width: 100%;
-    height: auto;
+    height: auto;*/
     
 }
 
